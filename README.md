@@ -1,4 +1,8 @@
 
+RedisManager作为一个redis一站式管理平台，它支持redis集群的创建、管理、监控、手动故障转移以及预警等功能，对redis集群做到全方位的保护。它大大降低了redis集群的运维成本，能做到对集群的实时监控，在redis出现问题是进行准确的故障排查
+
+---
+
 [RedisManager 2.0 (Asgard) 重构——功能讨论](https://github.com/ngbdf/redis-manager/issues/54) 
 
 # RedisManager
